@@ -12,23 +12,29 @@
 <h3>⚡ Technologies</h3>
 <h6>Languages</h6>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-F8981E?&style=for-the-badge&logoColor=white%22">
-  <img src="https://img.shields.io/badge/HTML-e34c26?&style=for-the-badge&logoColor=white%22">
-  <img src="https://img.shields.io/badge/CSS-2965f1?&style=for-the-badge&logoColor=white%22">
-  <img src="https://img.shields.io/badge/Javascript-F0DB4F?&style=for-the-badge&logoColor=white%22">
-  <img src="https://img.shields.io/badge/Typescript-007acc?&style=for-the-badge&logoColor=white%22">
+  <img src="https://img.shields.io/badge/Java-F8981E?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 <h6>Frameworks/Platforms</h6>
 <p align="left">
-  <img src="https://img.shields.io/badge/Angular-dd1b16?&style=for-the-badge&logoColor=white%22">
-  <img src="https://img.shields.io/badge/Node.js-3c873a?&style=for-the-badge&logoColor=white%22">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6EB33F?&style=for-the-badge&logoColor=white%22">
-  <img src="https://img.shields.io/badge/Heroku-591DB1?&style=for-the-badge&logoColor=white%22">
+  <img src="https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6EB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-591DB1?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
 <h6>Databases</h6>
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?&style=for-the-badge&logoColor=white%22">
-  <img src="https://img.shields.io/badge/MySQL-00758f?&style=for-the-badge&logoColor=white%22">
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+<h6>Learning in 2021</h6>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/SASS-CD6799?style=for-the-badge&logo=sass&logoColor=white">
 </p>
 
 <h3>📊 Github Stats</h3>
