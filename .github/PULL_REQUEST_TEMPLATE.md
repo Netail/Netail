@@ -7,8 +7,9 @@
 [Place an 'x' in all applicable checkboxes and delete options that are not relevant]
 
 - [ ] Feature
-- [ ] Bug fix
+- [ ] Bugfix
 - [ ] Hotfix
+- [ ] Refactoring
 - [ ] Documentation
 - [ ] Something else
 
