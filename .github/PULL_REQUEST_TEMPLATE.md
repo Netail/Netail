@@ -4,14 +4,13 @@
 
 ## Type
 
-[Place an 'x' in all applicable checkboxes and delete options that are not relevant]
+[Delete options that are not relevant (including this line)]
 
-- [ ] Feature
-- [ ] Bugfix
-- [ ] Hotfix
-- [ ] Refactoring
-- [ ] Documentation
-- [ ] Something else
+- Enhancement
+- Bugfix
+- Refactoring
+- Documentation
+- DevOps
 
 ## Checklist
 
