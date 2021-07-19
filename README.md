@@ -43,6 +43,7 @@
 <h6>Learning in 2021</h6>
 <p align="left">
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-46D1FD?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 <h3>📊 Github Stats</h3>
