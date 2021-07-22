@@ -50,6 +50,3 @@
   <img src="https://img.shields.io/badge/Kubernetes-2E6CE6?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2291E6?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
-<h3>📊 Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=netail">
