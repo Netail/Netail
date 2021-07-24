@@ -47,6 +47,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-46D1FD?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-2BB1EE?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-2E6CE6?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2291E6?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
