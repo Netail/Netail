@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-46D1FD?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.JS-FFFFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-46D1FD?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 <h6>CI/CD</h6>
