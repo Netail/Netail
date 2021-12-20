@@ -21,11 +21,11 @@
 <h6>Languages</h6>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-1AA2D4?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-2BB1EE?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-2BB1EE?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-1AA2D4?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 <h6>Frameworks/Platforms</h6>
