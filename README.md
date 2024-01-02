@@ -12,9 +12,6 @@
   <a href="https://open.spotify.com/user/1119936068">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <a href="mailto:maikel.van.dort@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-E34C43?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <h3>⚡ Technologies</h3>
