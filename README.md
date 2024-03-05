@@ -2,18 +2,6 @@
   Hi there, I'm Maikel! 👋
 </h1>
 
-<p align="center">
-  <a href="https://netail.github.io/">
-    <img src ="https://img.shields.io/badge/Website-0073C7?style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/maikel-van-dort-849b57192/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/1119936068">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
 <h3>⚡ Technologies</h3>
 <h6>Languages</h6>
 <p align="left">
