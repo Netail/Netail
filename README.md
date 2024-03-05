@@ -2,7 +2,6 @@
   Hi there, I'm Maikel! 👋
 </h1>
 
-<h3>⚡ Technologies</h3>
 <h6>Languages</h6>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
