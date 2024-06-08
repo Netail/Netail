@@ -2,11 +2,6 @@
   Hi there, I'm Maikel! 👋
 </h1>
 
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 40vh; left: 20vw; object-fit: cover; background-size: cover!important; width: 10vw; height: 10vw; animation: Toast--spinner infinite linear 60s, Overlay--motion-slideInLeft infinite alternate 1.06s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://github.com/Netail/Netail/blob/master/n4iz2zypyir81.gif?raw=true');]{x0000}$}
-```
-
 <h6>Languages</h6>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
