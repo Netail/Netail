@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-c63c14?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-48484b?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-1c78c0?style=for-the-badge&logo=webpack&logoColor=white" />
 </p>
 
 <h6>CI/CD</h6>
